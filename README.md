@@ -9,5 +9,5 @@ mosip-file-server used to share MOSIP's public certs, apk files, and .well-known
 ## mobileapp
 * Provide the publicly and privately accessible apk/zip links for mobileapp.
 
-## mosip-certs
+### mosip-certs
 * Contains the list of MOSIP's public certificates.
